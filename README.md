@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RPG Dice Roller & Encounter Generator
 
 A terminal-based RPG assistant for rolling dice, running encounters, stat checks, tracking luck, and managing characters.  
@@ -25,3 +26,7 @@ A terminal-based RPG assistant for rolling dice, running encounters, stat checks
 ```bash
 pip install -r requirements.txt
 
+=======
+# RPG-Dice-Roller
+Small dice roller project
+>>>>>>> 230043d3ea762f7da93f9f6e926ee66436f2bc2a

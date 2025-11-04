@@ -1,0 +1,37 @@
+{
+  "player_stats": {"STR": 3, "DEX": 2, "CON": 1, "INT": 0, "WIS": 1, "CHA": 2},
+  "critical_hit": ["🎯 Critical Hit!", "A perfect blow!", "The gods favor you!"],
+  "critical_fail": ["💀 Critical Fail!", "You slip and miss!", "A tragic blunder!"],
+  "encounters": {
+    "forest": {
+      "easy": ["Goblin scout", "Wolves", "Bandit thief"],
+      "normal": ["Troll", "Ent", "Poisonous vines"],
+      "hard": ["Forest dragon", "Treant lord", "Cursed druid"]
+    },
+    "desert": {
+      "easy": ["Scorpion swarm", "Lost nomads", "Sand snake"],
+      "normal": ["Mummy", "Dust storm elemental", "Sand raiders"],
+      "hard": ["Desert dragon", "Ancient sphinx", "Mirage demon"]
+    },
+    "dungeon": {
+      "easy": ["Skeleton", "Rat swarm", "Slime"],
+      "normal": ["Orc brute", "Trap gauntlet", "Haunted armor"],
+      "hard": ["Lich", "Vampire lord", "Ancient curse"]
+    },
+    "mountain": {
+      "easy": ["Goat bandits", "Falling rocks", "Eagle ambush"],
+      "normal": ["Ogre", "Snow troll", "Avalanche elemental"],
+      "hard": ["Frost giant", "Storm dragon", "Cursed summit spirit"]
+    },
+    "cavern": {
+      "easy": ["Bats", "Cave rats", "Giant spider"],
+      "normal": ["Troglodyte pack", "Rock golem", "Poison gas pocket"],
+      "hard": ["Beholder", "Abyssal worm", "Crystal guardian"]
+    },
+    "town": {
+      "easy": ["Pickpocket", "Street brawl", "Runaway horse"],
+      "normal": ["Thieves’ guild ambush", "Corrupt guard", "Smuggler ring"],
+      "hard": ["Assassin", "Rogue mage", "Demon in disguise"]
+    }
+  }
+}
